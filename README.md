@@ -7,16 +7,15 @@
 There is also a `create()` static method on each model class which is equivalent to instantiating the object and calling `insert()` on it. 
 
 
- ##Model Methods
- ###All Models
+ ## Model Methods
  
  
- ###Student
+ ### Student
      `getGrades()` will return a list of Grade objects for that student.
     
      `calculateAverage()` will return the average of that student's assignment grades
     
       
     
- 2. Assignment
- 3. Grade
+ ### Assignment
+ ### Grade
